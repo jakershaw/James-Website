@@ -1,0 +1,32 @@
+
+{% include "styles.html" %}
+</body>
+
+<header id="head" class="tertiary"></header>
+
+	<!-- /Header -->
+
+	<!-- Intro -->
+	<div class="container text-center bg-dark">
+		<h2 class="thin">My Drafts</h2>
+		<hr style="width:100%">
+	</div>
+
+    <div class="container text-center">
+        {% for entry in object_list %}
+        <h3>
+          <a href="{{ url_for('edit', slug=entry.slug) }}">
+            {{ entry.title }}
+          </a>
+        </h3>
+        <p>Created {{ entry.timestamp.strftime('%m/%d/%Y at %G:%I%p') }}</p>
+        {% else %}
+        <p>No entries have been created yet.</p>
+        {% endfor %}
+    </div>
+	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
+</body>
+</html>
