@@ -1,9 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="014435eb-b8dc-4d9d-9486-bc29e9a9892e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+    <list default="true" id="014435eb-b8dc-4d9d-9486-bc29e9a9892e" name="Default Changelist" comment="Test commit">
+      <change afterPath="$PROJECT_DIR$/static/images/logos/powerpoint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/Slingerland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/bakery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_logo_cropped.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/0fe5d67b4173024301037901c7963153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/2d25d81e-34b4-40de-bb14-6dba8d2820df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/3221316358-idpiframe.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/5036a0a40ee1b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/58e878f7ba45c0a40a09b11535db2937.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/66ca987852df5857ed01a05010a72b19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/7d7ce934ef86d7ec9d8f748960cd5aa8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/8f64db691e11158ef8736038151c69b5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/a2e4a568ca88115f2b3e740ca7b7d099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/analytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/bat.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/blog_view.bundle.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/cb=gapi.loaded_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/clk.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/default.bundle.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/default_female_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/default_female_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/default_female_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/default_male_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/default_male_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/default_male_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/e141d1246697bdd8b927f6239a79da8d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/erasmusu.all-v5.2.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/fbevents.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/gtm.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/jquery.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-05b875d91a911cea31143a84c3c9270a(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-05b875d91a911cea31143a84c3c9270a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-0d96d63882dfcaa5e35898ae343847ee(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-0d96d63882dfcaa5e35898ae343847ee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-1bfcf7e85185b108e9be0cc87e7f7a71(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-1bfcf7e85185b108e9be0cc87e7f7a71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-7ce89485b885eecb72a375fc42bb351c(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-7ce89485b885eecb72a375fc42bb351c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-cd06d91edbc7abd01a8ebeb83f91a688(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-cd06d91edbc7abd01a8ebeb83f91a688.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-f2bec16415c760b10c34f5d37db10acc(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/oxford-balls-worth-cost-f2bec16415c760b10c34f5d37db10acc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/platform.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/sdk.js(1).download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/sdk.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/tiny_mce.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/v5.2(1).3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/ball_review_files/v5.2.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/bandstand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/bandstand_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/bandstands.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/bandstands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/cloisters.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/committee.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/dj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/donut_kings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/layout_doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/layout_map.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/layout_map_blurred.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/layout_map_blurred.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/lighting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/logistics_sheet.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/logistics_sheet_blurred.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/logistics_sheet_blurred.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/main_stage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/main_stage_early.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/main_stage_lit.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/main_stage_night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/marquee.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/saddlespan.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/silent_disco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/silent_disco_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/swingboats.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/timetable.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/waltz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/website/blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/website/progressus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/website/website.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.db" beforeDir="false" afterPath="$PROJECT_DIR$/blog.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/logos/excel.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/logos/excel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/ball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/website.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/create_book_summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/create_book_summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/drafts.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/drafts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/misc.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/misc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/published.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/published.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/reading.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/reading.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/styles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/tech.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tech.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +135,16 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1d8YVDyHUClHZdZ2DUfIosLligU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -129,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596488225732</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test commit">
+      <created>1596490425631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596490425631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -137,6 +254,7 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Test commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
   </component>
@@ -154,38 +272,39 @@
     </state>
     <state x="414" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1594507769408" />
     <state x="414" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/350.-1024.1280.984@0.0.1280.680" timestamp="1591808434332" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1596488222709">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1597176307109">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596488222709" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1596487957042">
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597084301805" />
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597176307109" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1597063146184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596487957042" />
-    <state x="506" y="235" width="600" height="210" key="Github.ShareDialog" timestamp="1596489362334">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597063146184" />
+    <state x="506" y="235" width="600" height="210" key="Github.ShareDialog" timestamp="1597065551720">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="506" y="235" width="600" height="210" key="Github.ShareDialog/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596489362334" />
-    <state width="1259" height="129" key="GridCell.Tab.0.bottom" timestamp="1596485392197">
+    <state x="506" y="235" width="600" height="210" key="Github.ShareDialog/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597065551720" />
+    <state width="1259" height="125" key="GridCell.Tab.0.bottom" timestamp="1597163954342">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="129" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596485392197" />
-    <state width="1259" height="139" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594341147220" />
-    <state width="1259" height="129" key="GridCell.Tab.0.center" timestamp="1596485392197">
+    <state width="1259" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597163954342" />
+    <state width="1259" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597096570139" />
+    <state width="1259" height="125" key="GridCell.Tab.0.center" timestamp="1597163954342">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="129" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596485392197" />
-    <state width="1259" height="139" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594341147220" />
-    <state width="1259" height="129" key="GridCell.Tab.0.left" timestamp="1596485392197">
+    <state width="1259" height="125" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597163954342" />
+    <state width="1259" height="125" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597096570139" />
+    <state width="1259" height="125" key="GridCell.Tab.0.left" timestamp="1597163954342">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="129" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596485392197" />
-    <state width="1259" height="139" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594341147220" />
-    <state width="1259" height="129" key="GridCell.Tab.0.right" timestamp="1596485392197">
+    <state width="1259" height="125" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597163954342" />
+    <state width="1259" height="125" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597096570139" />
+    <state width="1259" height="125" key="GridCell.Tab.0.right" timestamp="1597163954342">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="129" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596485392197" />
-    <state width="1259" height="139" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594341147220" />
+    <state width="1259" height="125" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597163954342" />
+    <state width="1259" height="125" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597096570139" />
     <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1591811441730">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -206,11 +325,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="51" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596490414738" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1596490273670">
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1597176255083">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596490273670" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1594379851152" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597131524942" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1597176255083" />
     <state x="450" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596485117893">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

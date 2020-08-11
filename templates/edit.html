@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 
-<html lang="en">
-
-{% include "styles.html" %}
+{% extends "styles.html" %}
+{% block content %}
+<header id="head" class="secondary"></header>
 
 <header id="head" class="secondary"></header>
 
@@ -63,5 +62,4 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 
-</body>
-</html>
+{% endblock %}

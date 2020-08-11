@@ -23,7 +23,7 @@
 
 </head>
 
-<body style="">
+<body class="Site" style="">
 
 	<!-- Navbar -->
 	<div class="navbar navbar-fixed-top headroom navbar-inverse">
@@ -114,24 +114,23 @@
 		</div>
 	</div>
 
-	<!-- Footer -->
+	<main class="Site-content">
+	{% block content %}{% endblock %}
+	</main>
 
+	<!-- Footer -->
 	<footer id="footer" class="top-space">
-		<div class="footer1">
-			<div class="container">
+		<div class="footer">
+			<div class="container-fluid">
 				<div class="row">
-					<div class="col-md-6 widget">
-						<div class="widget-body">
-							<div class="text-left">
-								<h5 class="widget-body">Contact: <a href="mailto:#">james_kershaw@hotmail.co.uk</a> </h5>
-							</div>
+					<div class="col-xs-6">
+						<div class="text-left">
+							<h5>Contact: <a href="mailto:#">james_kershaw@hotmail.co.uk</a> </h5>
 						</div>
 					</div>
-					<div class="col-md-6 widget">
-						<div class="widget-body">
-							<p class="text-right" style="margin: auto;">
-								Copyright &copy; 2020, James Kershaw
-							</p>
+					<div class="col-xs-6">
+						<div class="text-right">
+							<h6>Copyright &copy; 2020, James Kershaw</h6>
 						</div>
 					</div>
 				</div>

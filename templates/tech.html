@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
 
-{% include "styles.html" %}
+{% extends "styles.html" %}
+{% block content %}
+<header id="head" class="secondary"></header>
+<header id="head" class="secondary"></header>
 
-	<header id="head" class="secondary"></header>
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-4">
@@ -35,5 +35,5 @@
 	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-</body>
-</html>
+
+{% endblock %}
