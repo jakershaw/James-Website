@@ -57,38 +57,14 @@
 					<li><a href="/">Home</a></li>
 					<li><a href="/about">About</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Create <b class="caret"></b></a>
-						<ul class="dropdown-menu">
-							<li><a href="{{ url_for('create') }}">Project</a></li>
-							<li><a href="{{ url_for('create') }}">Book Summary</a></li>
-						</ul>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Drafts <b class="caret"></b></a>
-						<ul class="dropdown-menu">
-							<li><a href="{{ url_for('drafts') }}">Projects</a></li>
-							<li><a href="{{ url_for('drafts') }}">Book Summaries</a></li>
-						</ul>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Published <b class="caret"></b></a>
-						<ul class="dropdown-menu">
-							<li><a href="{{ url_for('published') }}">Projects</a></li>
-							<li><a href="{{ url_for('drafts') }}">Book Summaries</a></li>
-						</ul>
-					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="/tech">Tech</a></li>
 							<li><a href="/misc">Misc</a></li>
-							<li><a href="/misc">Non-public</a></li>
 						</ul>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Personal <b class="caret"></b></a>
-						<ul class="dropdown-menu">
-							<li><a href="/reading">Reading</a></li>
-							<li><a href="/tech">Experiences</a></li>
-							<li><a href="/reading">Cooking</a></li>
-							<li><a href="/reading">Reference</a></li>
-						</ul>
+					<li><a href="{{ url_for('create') }}">Create</a></li>
+					<li><a href="{{ url_for('drafts') }}">Drafts</a></li>
+					<li><a href="{{ url_for('published') }}">Published</a></li>
 					<li><a class="btn" href="/logout">Log out</a></li>
 					{% else %}
 					<li><a href="/">Home</a></li>

@@ -20,9 +20,9 @@ from playhouse.sqlite_ext import *
 
 # Blog configuration values.
 
-# You may consider using a one-way hash to generate the password, and then
-# use the hash again in the login view to perform the comparison. This is just
-# for simplicity.
+# Password is saved in separate file called "config" that is not uploaded to github
+# (by writing the file name "config" in the .gitignore file)
+
 ADMIN_PASSWORD = config.password
 APP_DIR = os.path.dirname(os.path.realpath(__file__))
 

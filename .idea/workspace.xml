@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="014435eb-b8dc-4d9d-9486-bc29e9a9892e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/0.46a18ae0.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/13f5ac8163.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/3.0e099fa9.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/5.ce31f267.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/54aabd2b5a59099a3a209c04e748a5e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/LAB.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/analytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/b75c86b35e_vendor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/c5b3924b91_app.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/clean-world-080720-m.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/cookieconsent.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/cookieconsent.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/di-header-123x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/di-header-34x37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/dragon-situp-masthead-smoothed-lhs-80px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/dragon-situp-masthead-smoothed-rhs-80px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/e168d1cd3486c607c6cd18abb975eae3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/e8e061e1c4_app.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/f9953c3e7e_vendor.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/fbevents.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/gtm.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/headroom.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/leaflet-gesture-handling" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/leaflet-gesture-handling.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/leaflet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/leaflet.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/legacy_app.cba1d142.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/logo-name-h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/pro-v4-font-face.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/pro-v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/pro.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/pushy.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/runtime.154ab758.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/sdk.js(1).download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/sdk.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/stacktrace.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/superfish.min.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/vue.75165e8e.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/webfont.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/projects/ball/play_files/wsa-st_clares-marketing-300720-m.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.db" beforeDir="false" afterPath="$PROJECT_DIR$/blog.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/reading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/styles.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597236621391</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Removed config file from version control">
+      <created>1597241422540</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597241422540</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed passwords">
+      <created>1597241631437</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597241631437</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -166,7 +227,9 @@
     <MESSAGE value="Test commit" />
     <MESSAGE value="Added sticky footer using flexbot&#10;Updated the posts and included photos" />
     <MESSAGE value="Added config file to store passwords, and gitignore file to ensure it won't be saved to the git repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added config file to store passwords, and gitignore file to ensure it won't be saved to the git repository" />
+    <MESSAGE value="Removed config file from version control" />
+    <MESSAGE value="Changed passwords" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed passwords" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Notifications" timestamp="1596483982704">
@@ -182,10 +245,10 @@
     </state>
     <state x="414" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1594507769408" />
     <state x="414" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/350.-1024.1280.984@0.0.1280.680" timestamp="1591808434332" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1597241421562">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1597241630618">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597241421562" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597241630618" />
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597176417010" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1597063146184">
       <screen x="0" y="0" width="1280" height="680" />
@@ -195,25 +258,25 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="506" y="235" width="600" height="210" key="Github.ShareDialog/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597065551720" />
-    <state width="629" height="125" key="GridCell.Tab.0.bottom" timestamp="1597231820648">
+    <state width="1259" height="125" key="GridCell.Tab.0.bottom" timestamp="1597248078194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="629" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597231820648" />
+    <state width="1259" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597248078194" />
     <state width="1259" height="125" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597096570139" />
-    <state width="629" height="125" key="GridCell.Tab.0.center" timestamp="1597231820648">
+    <state width="1259" height="125" key="GridCell.Tab.0.center" timestamp="1597248078194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="629" height="125" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597231820648" />
+    <state width="1259" height="125" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597248078194" />
     <state width="1259" height="125" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597096570139" />
-    <state width="629" height="125" key="GridCell.Tab.0.left" timestamp="1597231820648">
+    <state width="1259" height="125" key="GridCell.Tab.0.left" timestamp="1597248078194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="629" height="125" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597231820648" />
+    <state width="1259" height="125" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597248078194" />
     <state width="1259" height="125" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597096570139" />
-    <state width="629" height="125" key="GridCell.Tab.0.right" timestamp="1597231820648">
+    <state width="1259" height="125" key="GridCell.Tab.0.right" timestamp="1597248078194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="629" height="125" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597231820648" />
+    <state width="1259" height="125" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597248078194" />
     <state width="1259" height="125" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597096570139" />
     <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1591811441730">
       <screen x="0" y="0" width="1280" height="680" />
