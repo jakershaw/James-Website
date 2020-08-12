@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="014435eb-b8dc-4d9d-9486-bc29e9a9892e" name="Default Changelist" comment="Added sticky footer using flexbot&#10;Updated the posts and included photos">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+    <list default="true" id="014435eb-b8dc-4d9d-9486-bc29e9a9892e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.db" beforeDir="false" afterPath="$PROJECT_DIR$/blog.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/create_book_summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/create_book_summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/drafts.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/drafts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/logout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/misc.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/misc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/published.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/published.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/styles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tech.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tech.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597176332187</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added config file to store passwords, and gitignore file to ensure it won't be saved to the git repository">
+      <created>1597236621391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597236621391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -174,7 +165,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Test commit" />
     <MESSAGE value="Added sticky footer using flexbot&#10;Updated the posts and included photos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added sticky footer using flexbot&#10;Updated the posts and included photos" />
+    <MESSAGE value="Added config file to store passwords, and gitignore file to ensure it won't be saved to the git repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added config file to store passwords, and gitignore file to ensure it won't be saved to the git repository" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Notifications" timestamp="1596483982704">
@@ -190,10 +182,10 @@
     </state>
     <state x="414" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1594507769408" />
     <state x="414" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/350.-1024.1280.984@0.0.1280.680" timestamp="1591808434332" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1597176417010">
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1597236620335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597084301805" />
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597236620335" />
     <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597176417010" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1597063146184">
       <screen x="0" y="0" width="1280" height="680" />
@@ -243,9 +235,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="51" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1596490414738" />
-    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1597176434887">
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1597241398022">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.984@0.0.1280.680" timestamp="1597241398022" />
     <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597176434887" />
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1597222688845">
       <screen x="0" y="0" width="1280" height="680" />
