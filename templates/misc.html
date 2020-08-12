@@ -1,40 +1,39 @@
 
 {% extends "styles.html" %}
 {% block content %}
-<header id="head" class="secondary"></header>
-<header id="head" class="secondary"></header>
-
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-xs-4">
-						<img src="https://mdbootstrap.com/img/Photos/Others/images/88.jpg" class="img-fluid" alt="Sample project image">
+<header id="head" class="primary"></header>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-4">
+					<div style="height: 265px; overflow: hidden; border: 1px solid LightGray">
+						<img src="/static/images/projects/ball/ball.jpg" class="img-fluid" alt="Sample project image" usemap="#ballmap">
+						<map name="ballmap">
+							<area shape="default" href="/new-college-ball">
+						</map>
 					</div>
-					<div class="col-xs-4">
-						<img src="https://mdbootstrap.com/img/Photos/Others/images/88.jpg" class="img-fluid" alt="Sample project image">
+					<h4 style="text-align:center"><strong>Creating New College Commemoration Ball</strong></h4>
+					<hr>
+					<div style="height: 40px; text-align: center">
+						<img src="/static/images/logos/excel.png" class="img-fluid" alt="Sample project image", height="40px">
 					</div>
-					<div class="col-xs-4">
-						<img src="https://mdbootstrap.com/img/Photos/Others/images/88.jpg" class="img-fluid" alt="Sample project image">
+				</div>
+				<div class="col-xs-4">
+					<div style="height: 265px; overflow: hidden; border: 1px solid LightGray">
+						<img src="/static/images/projects/finance_training.png" class="img-fluid" alt="Sample project image">
+					</div>
+					<h4 style="text-align:center"><strong>Creating Corporate Finance Training</strong></h4>
+					<hr>
+					<div style="height: 40px; text-align: center">
+						<img src="/static/images/logos/excel.png" class="img-fluid" alt="Sample project image", height="40px">
+						<img src="/static/images/logos/powerpoint.png" class="img-fluid" alt="Sample project image", height="40px">
+					</div>
+				</div>
+				<div class="col-xs-4">
+					<div style="height: 265px; overflow: hidden; border: 1px solid LightGray">
+						<img src="/static/images/projects/coming_soon.png" class="img-fluid" alt="Sample project image">
 					</div>
 				</div>
 			</div>
-		<header id="head" class="tertiary"></header>
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-xs-4">
-						<img src="https://mdbootstrap.com/img/Photos/Others/images/88.jpg" class="img-fluid" alt="Sample project image">
-					</div>
-					<div class="col-xs-4">
-						<img src="https://mdbootstrap.com/img/Photos/Others/images/88.jpg" class="img-fluid" alt="Sample project image">
-					</div>
-					<div class="col-xs-4">
-						<img src="https://mdbootstrap.com/img/Photos/Others/images/88.jpg" class="img-fluid" alt="Sample project image">
-					</div>
-				</div>
-			</div>
-
-
-	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-
+		</div>
+	<header id="head" class="tertiary"></header>
 {% endblock %}
